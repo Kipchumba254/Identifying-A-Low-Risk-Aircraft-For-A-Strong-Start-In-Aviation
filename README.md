@@ -38,9 +38,19 @@ This dataset includes attributes such as:
 
 ## Conclusion
 
-### Summary of Conclusions Including Three Relevant Findings
+### Key Findings
+- Aircraft models with the lowest accident rates.
+- Weather conditions associated with high risks.
+- The impact the number of engines has on the total fatal injuries.
+
+### Summary
 - Aircraft models with fewer engines are associated with higher risks in adverse weather.
 - Aircraft models with single engines should be avoided in places with harsh weather conditions.
+
+### Recommendations
+- The company should focus on acquiring aircrafts with low acciddent numbers.
+- More training should be offered with regards to adverse weather conditions.
+- Aircraft models with single engines should be avoided in places with adverse weather conditions.
 
 
 
